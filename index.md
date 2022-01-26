@@ -7,7 +7,7 @@ Overview
 |Format | Time         | Place | Instructor                     |
 |------|---------------|--------|---------------------------|
 | Lecture | Weds 16-18 | http://bit.ly/CL21lectures  | Yuri Bizzoni  |
-| Groupwork | Thurs 12-14 | http://bit.ly/CogWarts  | Rebekah Baglini + Stephan Smuts | 
+| Groupwork | Thurs 12-14 | http://bit.ly/CogWarts  | Yuri Bizzoni + Emil | 
 
 Note: The [Gather.Town](http://bit.ly/CLGather) space is always available for you! Feel free to have your study group meetings here. 
 
