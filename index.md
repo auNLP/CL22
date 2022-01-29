@@ -6,8 +6,8 @@ Overview
 
 |Format | Time         | Place | Instructor                     |
 |------|---------------|--------|---------------------------|
-| Lecture | Weds 16-18 | http://bit.ly/CL21lectures  | Yuri Bizzoni  |
-| Groupwork | Thurs 12-14 | http://bit.ly/CogWarts  | Yuri Bizzoni + Emil | 
+| Lecture | Tues 10-16 | 1453-116  | Yuri Bizzoni + Emil Rønn  |
+| Groupwork | Thurs 10-16 | 5008-127   | Yuri Bizzoni + Emil Rønn | 
 
 Note: The [Gather.Town](http://bit.ly/CLGather) space is always available for you! Feel free to have your study group meetings here. 
 
